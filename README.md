@@ -15,3 +15,9 @@
 ### Caso queira entrar em contato pode estar me comunicando pelo [contato@vitoraraujo.com](mailto:contato@vitoraraujo.com)
 
 ### Ou pode estar vendo o [Meu Portifolio](https://vitoraraujo.com)
+
+<hr>
+
+# Alterações de teste com a conta secundaria
+
+### Apenas ignore está sessão...
