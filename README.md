@@ -1,8 +1,8 @@
-# Desafio GitHub Markdown
+# Desafio em python
 
-## Este é a Branch 1.1
+## Este é a Branch python
 
-## Foi criada apenas para praticar não irá ter nada de mais por aqui...
+## Foi criada para realizar o desafio de resolver algoritmos em python com o codespace
 
 ### Porém caso queira me seguir no linkedin novamente 😋
 
